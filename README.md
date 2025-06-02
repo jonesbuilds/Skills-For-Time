@@ -1,4 +1,4 @@
-# Skills for Time ⏳
+# Timebank ⏳
 ![Status](https://img.shields.io/badge/🚧_MVP_in_Progress-yellow?style=flat-square)
 
 **A modern, fair timebanking platform where people exchange skills — not money.**
@@ -7,7 +7,7 @@
 
 ## 🌟 What Is This?
 
-Skills for Time lets users trade time and talent through a credit-based system.  
+Timebank lets users trade time and talent through a credit-based system.  
 Whether you're offering tutoring, design, repairs, or just a helping hand — your time has value.
 
 ---
